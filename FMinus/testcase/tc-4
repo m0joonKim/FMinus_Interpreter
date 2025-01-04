@@ -1,0 +1,2 @@
+let x = true in
+	if x = false then 3 else 0

@@ -1,0 +1,1 @@
+let f x = if x = x then 3 <> 3 else true = false in f (fun x -> x)  
